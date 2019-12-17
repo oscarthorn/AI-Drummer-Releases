@@ -1,0 +1,7 @@
+{
+    "app_name": "AI Drummer",
+    "author": "Oscar Thörn, Örebro Universitet",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0",
+    "hidden_imports": ["rtmidi", "mido.backends.rtmidi"]
+}
